@@ -1,0 +1,53 @@
+[
+     {
+       "id": 1,
+       "cover": "https://i.ibb.co.com/3p4HZTd/top-8-programming-blogs-that-every-software-developer-must-read.webp",
+       "title": "Understanding JavaScript Closures",
+       "author": "Jane Doe",
+       "author_img": "https://i.ibb.co.com/JqSjN1m/photo1697516982.jpg",
+       "posted_date": "2024-10-10",
+       "reading_time": 7,
+       "hashtags": ["JavaScript", "Programming", "Web Development", "Closures"]
+     },
+     {
+       "id": 2,
+       "cover": "https://i.ibb.co.com/x6TnJJD/istockphoto-1502289545-612x612.jpg",
+       "title": "CSS Grid vs Flexbox: When to Use Each",
+       "author": "John Smith",
+       "author_img": "https://i.ibb.co.com/JqSjN1m/photo1697516982.jpg",
+       "posted_date": "2024-10-15",
+       "reading_time": 5,
+       "hashtags": ["CSS", "Web Design", "Frontend", "Layout"]
+     },
+     {
+       "id": 3,
+       "cover": "https://i.ibb.co.com/mzFXXX5/istockphoto-1448124439-612x612.jpg",
+       "title": "Mastering HTML Semantics for SEO",
+       "author": "Alice Johnson",
+       "author_img": "https://i.ibb.co.com/JqSjN1m/photo1697516982.jpg",
+       "posted_date": "2024-10-18",
+       "reading_time": 8,
+       "hashtags": ["HTML", "SEO", "Accessibility", "Web Development"]
+     },
+     {
+       "id": 4,
+       "cover": "https://i.ibb.co.com/0B9pWbS/web-herramientas-fullstack-desarrollo.jpg",
+       "title": "A Beginner's Guide to JavaScript Promises",
+       "author": "Bob Brown",
+       "author_img": "https://i.ibb.co.com/JqSjN1m/photo1697516982.jpg",
+       "posted_date": "2024-10-20",
+       "reading_time": 10,
+       "hashtags": ["JavaScript", "Async", "Promises", "Coding Tips"]
+     },
+     {
+       "id": 5,
+       "cover": "https://i.ibb.co.com/0B9pWbS/web-herramientas-fullstack-desarrollo.jpg",
+       "title": "Building Responsive Websites with CSS",
+       "author": "Carol White",
+       "author_img": "https://i.ibb.co.com/JqSjN1m/photo1697516982.jpg",
+       "posted_date": "2024-10-25",
+       "reading_time": 6,
+       "hashtags": ["CSS", "Responsive Design", "Web Development", "Frontend"]
+     }
+   ]
+   
